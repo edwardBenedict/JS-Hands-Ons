@@ -1,3 +1,5 @@
+<h2 style="float:right;"><img src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg" width="20px"> Clarusway</h2>
+
 # Hands-on JavaScript-Operators
 
 > Purpose of the this hands-on training is to teach the students JavaScript Operators.
@@ -143,7 +145,11 @@ Meaning : x = x ** y
 
 ```
 
-Syntax : expr1 &&= expr2
+Syntax :
+
+```js
+expr1 &&= expr2;
+```
 
 Using Logical AND Assignment
 
@@ -161,7 +167,11 @@ Using Logical AND Assignment
 
 ```
 
-Syntax : expr1 ||= expr2
+Syntax :
+
+```js
+expr1 ||= expr2;
+```
 
 ```js
 
@@ -183,7 +193,11 @@ Syntax : expr1 ||= expr2
 
 ```
 
-Syntax : expr1 ??= expr2
+Syntax :
+
+```js
+expr1 ??= expr2;
+```
 
 - Using logical nullish assignment
 
@@ -198,6 +212,12 @@ Syntax : expr1 ??= expr2
 >
 
 - You can use the typeof operator to find the data type of a JavaScript variable.
+
+Syntax :
+
+```js
+typeof variable;
+```
 
 ```js
 

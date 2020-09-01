@@ -1,4 +1,4 @@
-# Hands-on JavaScript-Operators
+<h2 style="float:right;"><img src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg" width="20px"> Clarusway</h2># Hands-on JavaScript-Operators
 
 > Purpose of the this hands-on training is to teach the students JavaScript Operators.
 
@@ -215,7 +215,11 @@ console.log(b);
 // expected output: 0
 ```
 
-Syntax : expr1 &&= expr2
+Syntax :
+
+```js
+expr1 &&= expr2;
+```
 
 Using Logical AND Assignment
 
@@ -247,7 +251,11 @@ console.log(a.title);
 // expected output: "title is empty"
 ```
 
-Syntax : expr1 ||= expr2
+Syntax :
+
+```js
+expr1 ||= expr2;
+```
 
 ```js
 x || y;
@@ -258,7 +266,7 @@ x || y;
 - Example : If the "content" element is empty, set the innerHTML to a default value:
 
 ```js
-document.getElementById("lyrics").innerHTML ||= "<i>No content.</i>";
+document.getElementById("content").innerHTML ||= "<i>No content.</i>";
 ```
 
 ### Part 11 - Logical nullish assignment (??=)
@@ -279,7 +287,11 @@ console.log(a.speed);
 // expected output: 25
 ```
 
-Syntax : expr1 ??= expr2
+Syntax :
+
+```js
+expr1 ??= expr2;
+```
 
 - Using logical nullish assignment
 
@@ -301,6 +313,12 @@ config({}); // { duration: 100, speed: 25 }
 >
 
 - You can use the typeof operator to find the data type of a JavaScript variable.
+
+Syntax :
+
+```js
+typeof variable;
+```
 
 ```js
 typeof "John";

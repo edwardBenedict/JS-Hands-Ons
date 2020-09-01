@@ -1,3 +1,5 @@
+<h2 style="float:right;"><img src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg" width="20px"> Clarusway</h2>
+
 # Hands-on JavaScript Conditional Statements
 
 > Purpose of the this hands-on training is to teach the students JavaScript Conditional Statements.
