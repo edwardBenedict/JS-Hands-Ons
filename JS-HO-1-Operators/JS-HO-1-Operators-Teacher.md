@@ -23,6 +23,8 @@
 
 ### Part 1 - JavaScript Assignment Opeartors
 
+---
+
 - Define new variables and use assignment operators.
 
 ```js
@@ -41,9 +43,9 @@ console.log((x = x * y)); // 4 * 3
 
 Operator : x = y
 
----
-
 ### Part 2 - Adding assignment operator(`+`)
+
+---
 
 - The addition assignment operator (+=) adds the value of the right operand to a variable and assigns the result to the variable.
 
@@ -61,9 +63,9 @@ console.log((b += " world")); // concatenation
 Operator : x += y  
 Meaning : x = x + y
 
----
-
 ### Part 3 - Subtraction assignment operator(-)
+
+---
 
 - The subtraction assignment operator (-=) subtracts the value of the right operand from a variable and assigns the result to the variable.
 
@@ -80,11 +82,9 @@ console.log((a -= "Hello"));
 Operator : x -= y  
 Meaning : x = x - y
 
----
-
 ### Part 4 - Multiplication assignment operator(`*`)
 
->
+---
 
 - The multiplication assignment operator (`_=`) multiplies a variable by the value of the right operand and assigns the result to the variable.
 
@@ -101,11 +101,9 @@ console.log((a *= "hello"));
 Operator : x _= y  
 Meaning : x = x _ y
 
----
-
 ### Part 5 - Division assignment operator(`/`)
 
->
+---
 
 - The division assignment operator (/=) divides a variable by the value of the right operand and assigns the result to the variable.
 
@@ -125,11 +123,9 @@ console.log((a /= "hello"));
 Operator : x /= y  
 Meaning : x = x / y
 
----
-
 ### Part 6 - Adding Strings and Numbers
 
->
+---
 
 - Adding two numbers, will return the sum, but adding a number and a string will return a string:
 
@@ -146,11 +142,9 @@ var z = "Hello" + 5;
 
 &#10071; If you add a number and a string, the result will be a string!
 
----
-
 ### Part 7 - Remainder assignment operator(%=)
 
->
+---
 
 - The remainder assignment operator (%=) divides a variable by the value of the right operand and assigns the remainder to the variable.
 
@@ -170,11 +164,9 @@ console.log((a %= "hello"));
 Operator : x %= y
 Meaning : x = x % y
 
----
-
 ### Part 8 - Exponentiation assignment (\*\*=)
 
->
+---
 
 - The exponentiation assignment operator (\*\*=) raises the value of a variable to the power of the right operand.
 
@@ -194,11 +186,9 @@ console.log((a **= "hello"));
 Operator : x **= y
 Meaning : x = x ** y
 
----
-
 ### Part 9 - Logical AND assignment (&&=)
 
->
+---
 
 - The logical AND assignment (x &&= y) operator only assigns if x is truthy.
 
@@ -235,7 +225,7 @@ y &&= 0; // 0
 
 ### Part 10 - Logical OR assignment (||=)
 
->
+---
 
 - The logical OR assignment (x ||= y) operator only assigns if x is falsy.
 
@@ -271,7 +261,7 @@ document.getElementById("content").innerHTML ||= "<i>No content.</i>";
 
 ### Part 11 - Logical nullish assignment (??=)
 
->
+---
 
 - The logical nullish assignment (x ??= y) operator only assigns if x is nullish (null or undefined).
 
@@ -306,11 +296,9 @@ config({ duration: 125 }); // { duration: 125, speed: 25 }
 config({}); // { duration: 100, speed: 25 }
 ```
 
----
-
 ### Part 12 - JavaScript Typeof Operator
 
->
+---
 
 - You can use the typeof operator to find the data type of a JavaScript variable.
 
