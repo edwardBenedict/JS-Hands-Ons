@@ -27,8 +27,8 @@
 
 ---
 
-> ES6 (aka ES2015) has introduced new concept in javascript: iterators.
-> The Iterator pattern allows clients to effectively loop over a collection of objects.
+- ES6 (aka ES2015) has introduced new concept in javascript: iterators.
+- The Iterator pattern allows clients to effectively loop over a collection of objects.
 
 ### Part 2 - JavaScript Array `forEach()` Method
 

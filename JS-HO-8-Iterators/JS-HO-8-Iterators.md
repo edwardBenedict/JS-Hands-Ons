@@ -1,5 +1,5 @@
-<p><img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"> Clarusway</p>
+<p>Clarusway<img align="right"
+  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Hands-on JavaScript Iterators
 
@@ -27,8 +27,8 @@
 
 ---
 
-> ES6 (aka ES2015) has introduced new concept in javascript: iterators.
-> The Iterator pattern allows clients to effectively loop over a collection of objects.
+- ES6 (aka ES2015) has introduced new concept in javascript: iterators.
+- The Iterator pattern allows clients to effectively loop over a collection of objects.
 
 ### Part 2 - JavaScript Array `forEach()` Method
 
