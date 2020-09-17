@@ -47,10 +47,8 @@
 </html>
 ```
 
-| <img alt="The HTML DOM Tree of Objects" src="https://blog.scrapinghub.com/hs-fs/hubfs/tree-7.png?width=564&name=tree-7.png"/> |
-| :---------------------------------------------------------------------------------------------------------------------------: |
-|                                                _The HTML DOM Tree of Objects_                                                 |
-
+<img alt="The HTML DOM Tree of Objects" src="https://blog.scrapinghub.com/hs-fs/hubfs/tree-7.png?width=564&name=tree-7.png"/>
+<p align="center">The HTML DOM Tree of Objects</p>
 ### Part 2 - Selecting Elements
 
 |           Object           |                  Property                   |
